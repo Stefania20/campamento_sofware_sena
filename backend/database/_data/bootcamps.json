@@ -1,0 +1,30 @@
+[
+{
+    "name" : "PHP Intermediate Level",
+    "wedsite" : "http://laravel.com/camps",
+    "phone" : "(111) - 11111",
+    "description" : "Bootcamp for PHP learnig",
+    "user_id" : 1,
+    "average_rating" : 4.5,
+    "average_cost" : 8000
+},
+{
+    "name" : "Python Intermediate Level",
+    "wedsite" : "http://pythonlearing.com/camps",
+    "phone" : "(222) - 22222",
+    "description" : "Bootcamp for Python learnig",
+    "user_id" : 1,
+    "average_rating" : 4.5,
+    "average_cost" : 7000  
+},
+{
+    "name" : "Java Intermediate Level",
+    "wedsite" : "http://java.com/camps",
+    "phone" : "(333) - 33333",
+    "description" : "Bootcamp for Java learnig",
+    "user_id" : 1,
+    "average_rating" : 4.5,
+    "average_cost" : 5000  
+}
+
+]
