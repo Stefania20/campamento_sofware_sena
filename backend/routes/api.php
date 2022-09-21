@@ -3,6 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\BootcampController;
+use App\Http\Controllers\CourseController;
 
 /*
 |--------------------------------------------------------------------------
@@ -26,3 +27,4 @@ Route::get('prueba', function(){
 
 //Vincular el controlador bootcamp a sus respecgtivas rutas
 Route::apiResource('bootcamps', BootcampController::class);
+Route::apiResource('courses', CourseController::class);

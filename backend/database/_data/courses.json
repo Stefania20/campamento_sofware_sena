@@ -1,0 +1,28 @@
+[
+{
+    "title" : "nadar",
+    "description":"aprende a nadar",
+    "weeks" : 5,
+    "enroll_cost" : 5.6,
+    "minimum_skill" : " flotar  ",
+    "bootcamp_id" : 4
+  
+},
+{
+    "title" : "caminar",
+    "description":"aseo en la montaña",
+    "weeks" : 5,
+    "enroll_cost" : 4.6,
+    "minimum_skill" : " caminar  ",
+    "bootcamp_id" : 5  
+},
+{
+    "title" : "camping",
+    "description":"acampar en la motaña",
+    "weeks" : 4,
+    "enroll_cost" : 5.5,
+    "minimum_skill" : "sobrevivir ",
+    "bootcamp_id" : 4
+}
+
+]
